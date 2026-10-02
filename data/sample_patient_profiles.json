@@ -1,0 +1,77 @@
+[
+  {
+    "patient_id": "IND-PT-1001",
+    "name": "Ramesh V. Sharma",
+    "age": 54,
+    "gender": "Male",
+    "city": "Bengaluru, Karnataka",
+    "diet": "South Indian Vegetarian (High Carb Rice/Idli)",
+    "bmi": 27.8,
+    "waist_cm": 98.5,
+    "diabetes_duration_yr": 7.5,
+    "hba1c": 8.6,
+    "fpg": 178,
+    "ppg": 262,
+    "bp": "148/92 mmHg",
+    "lipids": "Triglycerides: 245 mg/dL | HDL: 36 mg/dL | LDL: 142 mg/dL",
+    "renal": "Serum Creatinine: 1.15 mg/dL | eGFR: 72 mL/min | UACR: 85 mg/g",
+    "medications": [
+      "Metformin 1000mg BD",
+      "Glimepiride 2mg OD",
+      "Telmisartan 40mg OD"
+    ],
+    "phenotype": "Asian Indian Phenotype: High visceral fat, progressive beta-cell decline, nocturnal hypertension",
+    "ascvd_10yr": 24.8,
+    "clinical_notes": "Patient reports postprandial fatigue and erratic dawn glucose spikes. Non-dipper nocturnal BP profile detected by wearable twin."
+  },
+  {
+    "patient_id": "IND-PT-1002",
+    "name": "Priya Lakshmi Sundaram",
+    "age": 48,
+    "gender": "Female",
+    "city": "Chennai, Tamil Nadu",
+    "diet": "Vegetarian",
+    "bmi": 25.2,
+    "waist_cm": 86.0,
+    "diabetes_duration_yr": 3.2,
+    "hba1c": 7.4,
+    "fpg": 138,
+    "ppg": 195,
+    "bp": "134/84 mmHg",
+    "lipids": "Triglycerides: 178 mg/dL | HDL: 44 mg/dL | LDL: 118 mg/dL",
+    "renal": "Serum Creatinine: 0.85 mg/dL | eGFR: 88 mL/min | UACR: 24 mg/g",
+    "medications": [
+      "Metformin 500mg BD",
+      "Empagliflozin 10mg OD"
+    ],
+    "phenotype": "Early cardio-metabolic syndrome with well-preserved renal function; responsive to lifestyle modification.",
+    "ascvd_10yr": 11.2,
+    "clinical_notes": "Well-controlled on SGLT2 inhibitor; high HRV stability. Candidate for dietary carbohydrate reduction."
+  },
+  {
+    "patient_id": "IND-PT-1003",
+    "name": "Anand S. Kulkarni",
+    "age": 62,
+    "gender": "Male",
+    "city": "Mumbai, Maharashtra",
+    "diet": "Mixed Non-Vegetarian",
+    "bmi": 30.4,
+    "waist_cm": 106.0,
+    "diabetes_duration_yr": 14.0,
+    "hba1c": 9.4,
+    "fpg": 210,
+    "ppg": 315,
+    "bp": "162/98 mmHg",
+    "lipids": "Triglycerides: 310 mg/dL | HDL: 32 mg/dL | LDL: 165 mg/dL",
+    "renal": "Serum Creatinine: 1.62 mg/dL | eGFR: 46 mL/min | UACR: 312 mg/g",
+    "medications": [
+      "Metformin 1000mg BD",
+      "Teneligliptin 20mg OD",
+      "Telmisartan 80mg + Amlodipine 5mg",
+      "Atorvastatin 20mg"
+    ],
+    "phenotype": "Advanced Cardio-Renal-Metabolic Syndrome; microvascular renal injury and severe endothelial dysfunction.",
+    "ascvd_10yr": 38.6,
+    "clinical_notes": "High risk of acute cardiovascular event; persistent albuminuria (DKD Stage 3). Requires tight nocturnal BP and glucose guardrails."
+  }
+]
